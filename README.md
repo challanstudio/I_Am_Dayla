@@ -30,8 +30,10 @@
 ```
 ✍🏻 디자인 소프트
    Adobe Illustrator, Adobe Photoshop
+   
 🎬 영상편집 소프트
    Adobe Premiere Pro
+   
 ⌨️ 언어
    HTML, CSS, JavaScript (리액트도 배우고 싶어요!)
   ```
