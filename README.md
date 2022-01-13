@@ -28,16 +28,14 @@
 
 ### 🖥 주로 사용하는 소프트/언어
 ```
-+ 디자인 소프트
-  > Adobe Illustrator, Adobe Photoshop
-+ 영상편집 소프트
-  > Adobe Premiere Pro
-+ 언어
-  > HTML, CSS, JavaScript (리액트도 배우고 싶어요!)
+✍🏻 디자인 소프트
+   Adobe Illustrator, Adobe Photoshop
+🎬 영상편집 소프트
+   Adobe Premiere Pro
+⌨️ 언어
+   HTML, CSS, JavaScript (리액트도 배우고 싶어요!)
   ```
 
 
 #### 👀 notion
-```
-+ [노션 구경하기](https://canary-toaster-c1a.notion.site/4cf731f5a93f45df9833986bbe72b34d)
-```
+ [노션 구경하기](https://canary-toaster-c1a.notion.site/4cf731f5a93f45df9833986bbe72b34d)
