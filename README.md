@@ -29,7 +29,7 @@
   > Adobe Premiere Pro
 + 언어
   > HTML, CSS, JavaScript (리액트도 배우고 싶어요!)
- 
 
-###notion
+
+#notion
 + https://canary-toaster-c1a.notion.site/4cf731f5a93f45df9833986bbe72b34d
