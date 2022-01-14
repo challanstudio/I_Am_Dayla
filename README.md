@@ -40,4 +40,4 @@
 
 
 #### 👀 notion
- [노션 구경하기](https://canary-toaster-c1a.notion.site/4cf731f5a93f45df9833986bbe72b34d)
+ [노션 구경하기](https://dayla.notion.site/dayla/4cf731f5a93f45df9833986bbe72b34d)
